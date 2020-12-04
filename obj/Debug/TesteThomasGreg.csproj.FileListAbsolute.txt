@@ -1,0 +1,39 @@
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\TesteThomasGreg.exe.config
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\TesteThomasGreg.exe
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\TesteThomasGreg.pdb
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.csprojAssemblyReference.cache
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.frm_main.resources
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.Properties.Resources.resources
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.GenerateResource.cache
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.CopyComplete
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.exe
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.pdb
+C:\Users\Gabriel Coutinho\Desktop\TesteThomasGreg\obj\Debug\TesteThomasGreg.Recursos.resources
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\TesteThomasGreg.exe.config
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\TesteThomasGreg.exe
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\TesteThomasGreg.pdb
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\EntityFramework.dll
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\EntityFramework.SqlServer.dll
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\System.Data.SQLite.dll
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\System.Data.SQLite.EF6.dll
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\System.Data.SQLite.Linq.dll
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\EntityFramework.xml
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\EntityFramework.SqlServer.xml
+E:\PARTICULAR\TesteThomasGreg\bin\Debug\System.Data.SQLite.xml
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.csprojAssemblyReference.cache
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.frm_main.resources
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.Properties.Resources.resources
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.GenerateResource.cache
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.CoreCompileInputs.cache
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.csproj.CopyComplete
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.exe
+E:\PARTICULAR\TesteThomasGreg\obj\Debug\TesteThomasGreg.pdb
